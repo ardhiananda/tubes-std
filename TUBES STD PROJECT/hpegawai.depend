@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1514140574 source:d:\strukdatcu\hpegawai\main.cpp
+	<iostream>
+
+1543344895 source:c:\users\user\downloads\hpegawai\main.cpp
+	<iostream>
+	"hpegawai.h"
+
+1543344514 source:c:\users\user\downloads\hpegawai\hpegawai.cpp
+	"hpegawai.h"
+
+1543344623 c:\users\user\downloads\hpegawai\hpegawai.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1543605863 source:d:\tubes std fix\hpegawai.cpp
+	"hpegawai.h"
+
+1543605611 d:\tubes std fix\hpegawai.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<stddef.h>
+	<stdio.h>
+	"cstdlib"
+	<conio.h>
+
+1543605624 source:d:\tubes std fix\main.cpp
+	<iostream>
+	"hpegawai.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<stddef.h>
+
+1543606790 source:c:\users\user\downloads\tubes std\hpegawai.cpp
+	"hpegawai.h"
+
+1543605612 c:\users\user\downloads\tubes std\hpegawai.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<stddef.h>
+	<stdio.h>
+	"cstdlib"
+	<conio.h>
+
+1543605626 source:c:\users\user\downloads\tubes std\main.cpp
+	<iostream>
+	"hpegawai.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<stddef.h>
+
+1543606790 source:d:\codeblocks\tubes std project\hpegawai.cpp
+	"hpegawai.h"
+
+1543605612 d:\codeblocks\tubes std project\hpegawai.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<stddef.h>
+	<stdio.h>
+	"cstdlib"
+	<conio.h>
+
+1543605626 source:d:\codeblocks\tubes std project\main.cpp
+	<iostream>
+	"hpegawai.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<stddef.h>
+
